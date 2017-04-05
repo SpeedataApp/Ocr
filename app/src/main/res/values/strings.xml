@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ocr</string>
+    <string name="desc"/>
+    <string name="ocr">Ocr识别</string>
+    <string name="loading_data">下载数据中…</string>
+    <string name="failed_operation">下载失败</string>
+    <string name="init_successful">初始化成功</string>
+    <string name="init_failed">初始化失败</string>
+</resources>
